@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+}
+.text-block{
+    width: 1200px;
+    margin: 100px auto;
+    background-color: white;
+}
+.text-block-item{
+    width: 30%;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    background-color: white;
+}
+.clear{
+    clear: both;
+}
+.da{
+    color: dodgerblue;
+}
+.sa{
+    font-size: 50px;
+}
+.sad{
+    border: 3px solid dodgerblue;
+    color: dodgerblue;
+    padding: 15px 30px;
+    margin: 10px 60px;
+    font-size: 12px;
+}
+p{
+    color: gray;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.text-block{
+    width: 1200px;
+    margin: 300px 550px;
+    background-color: white;
+}
+.text-block-item{
+    width: 20%;
+    border: 1px solid black;
+    padding: 55px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 20px ;
+}
+.text-block-item2{
+    width: 20%;
+    border: 1px solid black;
+    padding: 45px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 20px ;
+}
+.text-block-item3{
+    width: 20%;
+    border: 1px solid black;
+    padding: 45px 35px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 20px ;
+}
+.clear{
+    clear: both;
+}
